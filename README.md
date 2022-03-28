@@ -15,3 +15,7 @@
 
 > You don't have to run any command just double click on the index.html and your browser will run it for you.<br/>
 > Or, drag and drop the index.html on you browser.
+
+<br />
+
+> This App was created thanks to MIT xPro.
